@@ -1,6 +1,6 @@
 ### Prazer Agnaldo Júnior!
 
-Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção de crédito, ecommerce e comercial.
+Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal, ecommerce e comercial.
 
 * Tenho habilidades em:
     * Desenvolvimento front-end com ReactJS
