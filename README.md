@@ -3,13 +3,14 @@
 Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal, ecommerce e comercial.
 
 * Tenho habilidades em:
-    * Desenvolvimento front-end com ReactJS
-    * Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
+    * # Desenvolvimento front-end com ReactJS
+    * # Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
     * Desenvolvimento desktop com Radio studio Delphi
+    * Integração com software de terceiros
     * Testes unitários
     * Consulta e manipulação de dados com Oracle, MyQL e Firebird
  
- <strong>ATUALMENTE ESTOU:</strong>
+ ## ATUALMENTE ESTOU:
  
  *  Aprendendo mais a fundo arquitetura limpa e design patterns
  *  Expandindo meus conhecimentos em NextJS
