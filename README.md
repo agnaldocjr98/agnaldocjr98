@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCN4KIhL-9ff5XcVNo0Cu0LQ/featured)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnaldocjr98/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal, ecommerce e comercial.
+Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal e comercial.
 
 ### Tenho habilidades em:
 *  Desenvolvimento front-end com ReactJS
