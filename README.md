@@ -4,7 +4,7 @@
 
 Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal, ecommerce e comercial.
 
-#### Tenho habilidades em:
+### Tenho habilidades em:
     * Desenvolvimento front-end com ReactJS
     * Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
     * Desenvolvimento desktop com Radio studio Delphi
