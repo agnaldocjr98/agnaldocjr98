@@ -5,33 +5,34 @@
 Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal, ecommerce e comercial.
 
 ### Tenho habilidades em:
-    * Desenvolvimento front-end com ReactJS
-    * Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
-    * Desenvolvimento desktop com Radio studio Delphi
-    * Integração com software de terceiros
-    * Testes unitários
-    * Consulta e manipulação de dados com Oracle, MyQL e Firebird
-    * Experiência com kanban e Scrum
+*  Desenvolvimento front-end com ReactJS
+*  Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
+*  Desenvolvimento desktop com Radio Studio Delphi
+*  Integração com softwares de terceiros
+*  Testes unitários
+*  Consulta e manipulação de dados com Oracle, MYSQL e Firebird
+*  Experiência com Kanban e Scrum
  
  ### Atualmente estou:
  
- *  Aprendendo mais a fundo arquitetura limpa e design patterns
- *  Expandindo meus conhecimentos em NextJS
- *  Aprendendo AWS
+*  Aprendendo mais a fundo arquitetura limpa e design patterns
+*  Expandindo meus conhecimentos em NextJS
+*  Aprendendo AWS
 
  ### Experiência em integrações de terceiros que trabalhei:
  
- * Unico Check: Desenvolvi toda a integração com a unico check que é responsável por realizar biometrias faciais e sinalizar possíveis cliente fraudulentos
- * Mercado Pago: Desenvolvi toda a integração de pagamentos via PIX no nosso PDV  
- * ERP BENNER: Trabalho com integrações de operações financeiras, fiscais e comerciais
+* Unico Check: Desenvolvi toda a integração com a unico check que é responsável por realizar biometrias faciais e sinalizar possíveis cliente fraudulentos
+* Mercado Pago: Desenvolvi toda a integração de pagamentos via PIX no nosso PDV  
+* ERP BENNER: Trabalho com integrações de operações financeiras, fiscais e comerciais
 
 ### Formação
-   * Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Sul de Minas - UNIS VARGINHA/MG 
+
+* Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Sul de Minas - UNIS VARGINHA/MG 
 
 ### Soft Skills
-   *  Facilidade em trabalhar em equipe
-   *  Facilidade em repassar conhecimento
-   *  Sempre buscando novos desafios e mais conhecimento
+ *  Facilidade em trabalhar em equipe
+ *  Facilidade em repassar conhecimento
+ *  Sempre buscando novos desafios e mais conhecimento
 
 ![Agnaldo Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=agnaldocjr98&show_icons=true&theme=dracula)
 
