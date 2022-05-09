@@ -1,5 +1,22 @@
 ### Prazer Agnaldo Júnior!
 
+Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção de crédito, ecommerce e comercial.
+
+* Tenho habilidades em:
+    * Desenvolvimento front-end com ReactJS
+    * Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
+    * Desenvolvimento desktop com Radio studio Delphi
+    * Testes unitários
+    * Consulta e manipulação de dados com Oracle, MyQL e Firebird
+ 
+ ATUALMENTE ESTOU:
+ 
+ *  Aprendendo mais a fundo arquitetura limpa e design patterns
+ *  Expandindo meus conhecimentos em NextJS
+ *  Aprendendo AWS
+
+
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCN4KIhL-9ff5XcVNo0Cu0LQ/featured)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnaldocjr98/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
 ![Agnaldo Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=agnaldocjr98&show_icons=true&theme=dracula)
