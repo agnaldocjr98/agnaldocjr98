@@ -1,5 +1,7 @@
 ### Prazer Agnaldo Júnior!
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCN4KIhL-9ff5XcVNo0Cu0LQ/featured)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnaldocjr98/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal, ecommerce e comercial.
 
 * Tenho habilidades em:
@@ -9,6 +11,7 @@ Trabalho com a criação, manutenção e integração de rotinas relacionadas ao
     * Integração com software de terceiros
     * Testes unitários
     * Consulta e manipulação de dados com Oracle, MyQL e Firebird
+    * Experiência com kanban e Scrum
  
  ### ATUALMENTE ESTOU:
  
@@ -16,9 +19,19 @@ Trabalho com a criação, manutenção e integração de rotinas relacionadas ao
  *  Expandindo meus conhecimentos em NextJS
  *  Aprendendo AWS
 
+ ### EXPERIÊNCIA EM INTEGRAÇÕES DE TERCEIROS QUE TRABALHEI:
+ 
+ * Unico Check: Desenvolvi toda a integração com a unico check que é responsável por realizar biometrias faciais e sinalizar possíveis cliente fraudulentos
+ * Mercado Pago: Desenvolvi toda a integração de pagamentos via PIX no nosso PDV  
+ * ERP BENNER: Trabalho com integrações de operações financeiras, fiscais e comerciais
 
+### FORMAÇÃO
+   * Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Sul de Minas - UNIS VARGINHA/MG 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](agnaldo.coelho.jr1995@gmail.com)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCN4KIhL-9ff5XcVNo0Cu0LQ/featured)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnaldocjr98/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+### SOFT SKILLS
+   *  Facilidade em trabalhar em equipe
+   *  Facilidade em repassar conhecimento
+   *  Sempre buscando novos desafios e mais conhecimento
 
 ![Agnaldo Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=agnaldocjr98&show_icons=true&theme=dracula)
 
