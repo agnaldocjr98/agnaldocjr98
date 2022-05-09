@@ -10,7 +10,7 @@ Trabalho com a criação, manutenção e integração de rotinas relacionadas ao
     * Testes unitários
     * Consulta e manipulação de dados com Oracle, MyQL e Firebird
  
- ## ATUALMENTE ESTOU:
+ ### ATUALMENTE ESTOU:
  
  *  Aprendendo mais a fundo arquitetura limpa e design patterns
  *  Expandindo meus conhecimentos em NextJS
