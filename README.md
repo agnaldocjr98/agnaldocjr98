@@ -13,22 +13,22 @@ Trabalho com a criação, manutenção e integração de rotinas relacionadas ao
     * Consulta e manipulação de dados com Oracle, MyQL e Firebird
     * Experiência com kanban e Scrum
  
- ### ATUALMENTE ESTOU:
+ ### Atualmente estou:
  
  *  Aprendendo mais a fundo arquitetura limpa e design patterns
  *  Expandindo meus conhecimentos em NextJS
  *  Aprendendo AWS
 
- ### EXPERIÊNCIA EM INTEGRAÇÕES DE TERCEIROS QUE TRABALHEI:
+ ### Experiência em integrações de terceiros que trabalhei:
  
  * Unico Check: Desenvolvi toda a integração com a unico check que é responsável por realizar biometrias faciais e sinalizar possíveis cliente fraudulentos
  * Mercado Pago: Desenvolvi toda a integração de pagamentos via PIX no nosso PDV  
  * ERP BENNER: Trabalho com integrações de operações financeiras, fiscais e comerciais
 
-### FORMAÇÃO
+### Formação
    * Graduação em Análise e Desenvolvimento de Sistemas pelo Centro Universitário do Sul de Minas - UNIS VARGINHA/MG 
 
-### SOFT SKILLS
+### Soft Skills
    *  Facilidade em trabalhar em equipe
    *  Facilidade em repassar conhecimento
    *  Sempre buscando novos desafios e mais conhecimento
