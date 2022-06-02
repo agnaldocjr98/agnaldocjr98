@@ -16,7 +16,6 @@ Trabalho com a criação, manutenção e integração de rotinas relacionadas ao
  ### Atualmente estou:
  
 *  Aprendendo mais a fundo arquitetura limpa e design patterns
-*  Expandindo meus conhecimentos em NextJS
 *  Aprendendo AWS
 
  ### Experiência em integrações de terceiros que trabalhei:
