@@ -2,14 +2,18 @@
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55035999867492)[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCN4KIhL-9ff5XcVNo0Cu0LQ/featured)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/agnaldocjr98/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnaldo-j%C3%BAnior-966322206)
 
-Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal e comercial.
+Trabalho com a criação, manutenção e integração de rotinas relacionadas ao setor de proteção ao crédito, financeiro, fiscal e comercial utilizando todo o ecossistema React, Redux, ReactQuery, Jest, Testing Library, arquitetura limpa  e metodologias ágeis.
+
+Também atuo como desenvolvedor  backend quando necessário. Tenho conhecimentos em Nodejs, Express, domínio em verbos HTTP, mensageria com RabbitMQ, domíno na criação de queries
+robustas e performáticas nos banco de dados Oracle, mySQL e Firebird.
+
 
 ### Tenho habilidades em:
-*  Desenvolvimento front-end com ReactJS
+*  Desenvolvimento front-end com ReactJS e todo seu ecossistema
 *  Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
 *  Desenvolvimento desktop com Radio Studio Delphi
 *  Integração com softwares de terceiros
-*  Testes unitários
+*  Testes unitários com Jest e Testing Library
 *  Consulta e manipulação de dados com Oracle, MYSQL e Firebird
 *  Experiência com Kanban e Scrum
  
