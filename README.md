@@ -11,7 +11,7 @@ robustas e performáticas nos banco de dados Oracle, mySQL e Firebird.
 ### Tenho habilidades em:
 *  Desenvolvimento front-end com ReactJS e todo seu ecossistema
 *  Desenvolvimento back-end com NodeJS ou RESTAPI Delphi
-*  Desenvolvimento desktop com Radio Studio Delphi
+*  Desenvolvimento desktop com Rad Studio Delphi
 *  Integração com softwares de terceiros
 *  Testes unitários com Jest e Testing Library
 *  Consulta e manipulação de dados com Oracle, MYSQL e Firebird
